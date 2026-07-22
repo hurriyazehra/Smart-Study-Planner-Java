@@ -11,18 +11,18 @@ Features
 - Menu-driven interface
 
 OOP Concepts Used
-
 - Classes and Objects
 - Encapsulation
 - Inheritance
 - Polymorphism
 - Constructors
-Technologies
 
+Technologies Used
 - Java
-- VS Code
+- Java Swing
 - ArrayList
 - Scanner
+- VS Code
 
 About the Project
 
